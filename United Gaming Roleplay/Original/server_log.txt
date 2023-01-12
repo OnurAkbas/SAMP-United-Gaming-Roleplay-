@@ -1,0 +1,241 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:05:19] 
+[00:05:19] Server Plugins
+[00:05:19] --------------
+[00:05:19]  Loading plugin: streamer
+[00:05:19] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[00:05:19]   Loaded.
+[00:05:19]  Loading plugin: audio
+[00:05:20] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[00:05:20]   Loaded.
+[00:05:20]  Loading plugin: mysql
+[00:05:20] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[00:05:20]   Loaded.
+[00:05:20]  Loaded 3 plugins.
+
+[00:05:20] 
+[00:05:20] Filterscripts
+[00:05:20] ---------------
+[00:05:20]   Loading filterscript 'yom_buttons.amx'...
+[00:05:20]   Loaded 1 filterscripts.
+
+[00:05:20] MYSQL: UGRP MySQL by eljaheem
+[00:05:20] MYSQL: Attempting to connect to server...
+[00:05:21] MYSQL: Connection error, retrying...
+[00:05:21] MYSQL: Could not reconnect to server, terminating server...
+[00:05:21] Loading Stage 1
+[00:05:22] Loading Bizz
+[00:05:24] Loading Houses
+[00:05:28] Loading Cars
+[00:05:28] Loading Stage 3
+[00:05:28] Loading Stuff
+[00:05:28] Loading Points
+[00:05:28] Loading Families
+[00:05:28] Loading Objects
+[00:05:28] Loading IRC
+[00:05:28] Loading Vehicles
+[00:05:28] Loading Pickups
+[00:05:28] Loading Buildings
+[00:05:28]  
+[00:05:28]  ******************************* 
+[00:05:28]       United Gaming Roleplay
+[00:05:28]  **********************************  
+[00:05:28] Number of vehicle models: 87
+[00:05:28] --- Server Shutting Down.
+[00:05:28] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+[00:05:28] 
+
+*** Audio Plugin v0.5 R2 by Incognito unloaded ***
+
+[00:05:28] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:11:35] 
+[00:11:35] Server Plugins
+[00:11:35] --------------
+[00:11:35]  Loading plugin: streamer
+[00:11:35] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[00:11:35]   Loaded.
+[00:11:35]  Loading plugin: audio
+[00:11:35] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[00:11:35]   Loaded.
+[00:11:35]  Loading plugin: mysql
+[00:11:35] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[00:11:35]   Loaded.
+[00:11:35]  Loaded 3 plugins.
+
+[00:11:35] 
+[00:11:35] Filterscripts
+[00:11:35] ---------------
+[00:11:35]   Loading filterscript 'yom_buttons.amx'...
+[00:11:35]   Loaded 1 filterscripts.
+
+[00:11:35] MYSQL: UGRP MySQL by eljaheem
+[00:11:35] MYSQL: Attempting to connect to server...
+[00:11:35] MYSQL: Connection error, retrying...
+[00:11:35] MYSQL: Could not reconnect to server, terminating server...
+[00:11:35] Loading Stage 1
+[00:11:35] Loading Bizz
+[00:11:38] Loading Houses
+[00:11:41] Loading Cars
+[00:11:41] Loading Stage 3
+[00:11:41] Loading Stuff
+[00:11:41] Loading Points
+[00:11:41] Loading Families
+[00:11:41] Loading Objects
+[00:11:41] Loading IRC
+[00:11:41] Loading Vehicles
+[00:11:41] Loading Pickups
+[00:11:41] Loading Buildings
+[00:11:41]  
+[00:11:41]  ******************************* 
+[00:11:41]       United Gaming Roleplay
+[00:11:41]  **********************************  
+[00:11:41] Number of vehicle models: 87
+[00:11:41] --- Server Shutting Down.
+[00:11:41] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+[00:11:41] 
+
+*** Audio Plugin v0.5 R2 by Incognito unloaded ***
+
+[00:11:41] 
+
+  > MySQL plugin unloaded.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:14] 
+[00:15:14] Server Plugins
+[00:15:14] --------------
+[00:15:14]  Loading plugin: streamer
+[00:15:14] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[00:15:14]   Loaded.
+[00:15:14]  Loading plugin: audio
+[00:15:14] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[00:15:14]   Loaded.
+[00:15:14]  Loading plugin: mysql
+[00:15:14] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[00:15:14]   Loaded.
+[00:15:14]  Loaded 3 plugins.
+
+[00:15:14] 
+[00:15:14] Filterscripts
+[00:15:14] ---------------
+[00:15:14]   Loading filterscript 'yom_buttons.amx'...
+[00:15:14]   Loaded 1 filterscripts.
+
+[00:15:14] MYSQL: UGRP MySQL by eljaheem
+[00:15:14] MYSQL: Attempting to connect to server...
+[00:15:14] MYSQL: Connection error, retrying...
+[00:15:14] MYSQL: Could not reconnect to server, terminating server...
+[00:15:14] Loading Stage 1
+[00:15:15] Loading Bizz
+[00:15:18] Loading Houses
+[00:15:21] Loading Cars
+[00:15:21] Loading Stage 3
+[00:15:21] Loading Stuff
+[00:15:21] Loading Points
+[00:15:21] Loading Families
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:28:51] 
+[00:28:51] Server Plugins
+[00:28:51] --------------
+[00:28:51]  Loading plugin: streamer
+[00:28:51] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[00:28:51]   Loaded.
+[00:28:51]  Loading plugin: audio
+[00:28:51] 
+
+*** Audio Plugin v0.5 R2 by Incognito loaded ***
+
+[00:28:51]   Loaded.
+[00:28:51]  Loading plugin: mysql
+[00:28:52] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[00:28:52]   Loaded.
+[00:28:52]  Loaded 3 plugins.
+
+[00:28:52] 
+[00:28:52] Filterscripts
+[00:28:52] ---------------
+[00:28:52]   Loading filterscript 'yom_buttons.amx'...
+[00:28:52]   Loaded 1 filterscripts.
+
+[00:28:52] MYSQL: UGRP MySQL by eljaheem
+[00:28:52] MYSQL: Attempting to connect to server...
+[00:28:52] MYSQL: Connection error, retrying...
+[00:28:52] MYSQL: Could not reconnect to server, terminating server...
+[00:28:52] Loading Stage 1
+[00:28:53] Loading Bizz
+[00:28:55] Loading Houses
